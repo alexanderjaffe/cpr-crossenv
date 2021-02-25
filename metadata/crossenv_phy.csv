@@ -1,0 +1,389 @@
+PATRIC 2044938.8 Absconditabacteria 33 soda lake,None
+D31 L19 wastewater,None
+wastewater Absconditabacteria 33 1 curated wastewater,None
+19 LumberBridge sub10 Maybe SR1 34 6 cyanobacterial mat,None
+PH2017 17 BER D A full SR-1 test 32 6 cyanobacterial mat,None
+ph2015 02 Absconditabacteria SR1 33 7 curated cyanobacterial mat,None
+PATRIC 1643353.28 Absconditabacteria 33 bioreactor,None
+wastewater possibly Absconditabacteria 33 1 wastewater,None
+wastewater Absconditabacteria 38 1 wastewater,None
+PATRIC 2044938.10 Absconditabacteria 37 soda lake,None
+PATRIC 2044938.9 Absconditabacteria 34 soda lake,None
+GTDB GCA002414185.1 Absconditabacteria 31 river sediment,None
+SR1 RAAC1 aquifer sediment,None
+CG 4 9 14 3 um filter 150 SR1 40 9 groundwater,None
+Mehrshad2020 Modernmarine.mb.230 Absconditabacteria 34 groundwater,None
+GD2017-1 manure QB3 180125 SR1 candidate 33 10 dairy pond,None
+ALUMROCK MS4 SR1 33 49 curated groundwater,None
+NCBI GCA003488625.1 Gracilibacteria 35 groundwater,None
+PATRIC 2044938.5 Absconditabacteria 32 animal oral,None
+GTDB GCA002361595.1 Absconditabacteria 30 animal gut,None
+TERM1 SALIVA Absconditabacteria SR1 36 29 table25 human oral,None
+Shaiber2019 SR1MAGIVA2 Absconditabacteria 38 human oral,None
+PATRIC 1540874.3 Absconditabacteria 38 human oral,None
+Shaiber2020 ORALPBFBin00032 Absconditabacteria 39 human oral,None
+NCBI GCA013333295.2 Absconditabacteria 35 human oral,None
+NCBI GCA013333605.2 Absconditabacteria 36 human oral,None
+Shaiber2020 ORALPCFBin00011 Absconditabacteria 36 human oral,None
+IMG 2517572135 Absconditabacteria 36 human oral,None
+NCBI GCA013333915.2 Absconditabacteria 36 human oral,None
+ACD3 groundwater,GRA1
+ACD4 groundwater,GRA1
+ACD49 groundwater,GRA1
+GTDB GCA002335145.1 Gracilibacteria 53 bioreactor,GRA1
+PATRIC 1805211.18 Gracilibacteria 37 groundwater,GRA1
+PATRIC 2044595.17 Gracilibacteria 42 groundwater,GRA1
+CG18 big fil WC 8 21 14 2 50 CG GN02 01 38 16 groundwater,GRA1
+PATRIC 1805210.18 Gracilibacteria 38 groundwater,GRA1
+GTDB GCA002426885.1 Gracilibacteria 43 wastewater,GRA1
+PATRIC 2044595.20 Gracilibacteria 38 wastewater,GRA1
+PATRIC 2044595.12 Gracilibacteria 35 animal oral,GRA1
+NCBI GCA013332525.2 Gracilibacteria 37 human oral,GRA1
+PATRIC 1914866.3 Gracilibacteria 37 human oral,GRA1
+wastewater Gracilibacteria 37 1 curated wastewater,GRA1
+NCBI GCA013268835.1 Gracilibacteria 36 water treatment,GRA1
+NCBI GCA014377245.1 Gracilibacteria 41 glacier ice,GRA1
+NCBI GCA014377305.1 Gracilibacteria 42 glacier ice,GRA1
+Alum Rock 2019 MS4 BD1-5-probably 22 121 groundwater,GRA2
+GTDB GCA002470645.1 Gracilibacteria 26 wastewater,GRA2
+CG 2015-13 Gracilibacteria 32 15 curated groundwater,GRA2
+PATRIC 2044595.24 Gracilibacteria 37 sediment,GRA2
+PATRIC 2044595.33 Gracilibacteria 26 biopolymer,GRA2
+AR 2015 2-01 BD1-5 23 23 curated groundwater,GRA2
+AR 2015 2-065 BD1-5 24 8 curated groundwater,GRA2
+GTDB GCA002412935.1 Gracilibacteria 24 hydrocarbon,GRA2
+PATRIC 2044595.21 Gracilibacteria 26 dairy pond,GRA2
+GTDB GCA002435385.1 Gracilibacteria 27 river sediment,GRA2
+PATRIC 1130342.4 Gracilibacteria 23 seawater,GRA2
+IMG 2634166888 Gracilibacteria 26 hydrothermal vent,GRA2
+IMG 2636415965 Gracilibacteria 26 hydrothermal vent,GRA2
+DOLJORAL78 BD1-5 24 7 animal oral,GRA2
+IMG 2747842438 Gracilibacteria 24 marine mat,GRA2
+BD02T64 BD1-5 ocean oil seep,GRA2
+GTDB GCA002422305.1 Gracilibacteria 21 hydrocarbon,GRA2
+zodeltone water Bacteria maybe BD1-5 23 2301 groundwater,GRA2
+ALUMROCK MS4 BD1-5 23 16 curated groundwater,GRA2
+NCBI GCA013368515.1 Gracilibacteria 24 bioreactor,GRA2
+PATRIC 1912928.3 Gracilibacteria 25 human oral,GRA2
+Shaiber2019 GN02MAGIVB1 Gracilibacteria 25 human oral,GRA2
+NCBI GCA013333755.2 Gracilibacteria 25 human oral,GRA2
+PATRIC 1540872.6 Gracilibacteria 25 human oral,GRA2
+Shaiber2019 GN02MAGIVB2 Gracilibacteria 25 human oral,GRA2
+GTDB GCA004297735.1 Saccharibacteria 52 groundwater,None
+GTDB GCA002413465.1 Saccharibacteria 54 permafrost,None
+GTDB GCA002415345.1 Saccharibacteria 55 permafrost,None
+NCBI GCA013816445.1 Saccharibacteria 40 soil,None
+alan book 18 Saccharibacteria-like 48 71 groundwater,None
+NCBI GCA014191035.1 Saccharibacteria 39 lake,None
+PATRIC 2026720.84 Saccharibacteria 43 lake,None
+PATRIC 2026720.79 Saccharibacteria 47 soda lake,None
+QS 8 TM7 54 8 salt crust,None
+QS 5 TM7 54 17 salt crust,None
+SW 7 TM7 54 9 salt crust,None
+AWTP-2 inf bulk 2 Saccharibacteria 41 95 wastewater,None
+wastewater Saccharibacteria 41 1 wastewater,None
+PATRIC 2026720.126 Saccharibacteria 43 hydrothermal vent,None
+PATRIC 2026720.18 Saccharibacteria 45 hydrothermal vent,None
+PATRIC 2026720.100 Saccharibacteria 56 sponge,SAC1
+NCBI GCA903821315.1 Saccharibacteria 40 lake,SAC1
+NCBI GCA903920345.1 Saccharibacteria 39 lake,SAC1
+AWTP-2 BAC bulk 4 Saccharibacteria 45 59 wastewater,SAC1
+PATRIC 2026720.20 Saccharibacteria 45 hydrothermal vent,SAC1
+PATRIC 2026720.19 Saccharibacteria 38 hydrothermal vent,SAC1
+S6 FULL Saccharibacteria1 0p8 iron mat,SAC1
+CG10 big fil rev 8 21 14 0 10 CPR Bacteria 47 8 groundwater,SAC1
+SR2-17 Biohub 180515 Candidatus Saccharibacteria 49 10 groundwater,SAC1
+AWTP-2 BAC bulk 4 Candidatus Saccharibacteria 46 20 wastewater,SAC1
+viral-cat Candidatus Saccharibacteria 49 10 soil,SAC1
+viral-cat Candidatus Saccharibacteria 45 11 soil,SAC1
+viral-cat Candidatus Saccharibacteria 52 9 soil,SAC1
+viral-cat Candidatus Saccharibacteria 47 13 soil,SAC1
+viral-cat Candidatus Saccharibacteria 48 13 soil,SAC1
+NCBI GCA013815775.1 Saccharibacteria 45 soil,SAC1
+S p1 S3 coassembly Candidatus Saccharibacteria 46 180 groundwater,SAC1
+PATRIC 1953377.3 Saccharibacteria 50 permafrost,SAC1
+S p1 S3 coassembly Candidatus Saccharibacteria 48 99 groundwater,SAC1
+IMG 3300016254 Saccharibacteria 47 wastewater,SAC1
+JBCH GD18 4 SO65 S178 Candidatus Saccharibacteria 47 15 groundwater,SAC1
+GD2017-1 S p1 S3 Biohub 170907 Candidatus Saccharibacteria 47 86 groundwater,SAC1
+GD2017-2 S1 QB3 180125 Candidatus Saccharibacteria 47 11 groundwater,SAC1
+S 2p5 S6 coassembly Candidatus Saccharibacteria 52 42 groundwater,SAC1
+Candidatus Saccharibacteria bacterium RIFCSPHIGHO2 12 FULL 48 21 groundwater,SAC1
+RIFCSPHIGHO2 12 FULL Saccharibacteria 49 19 groundwater,SAC1
+Candidatus Saccharibacteria bacterium RIFCSPHIGHO2 12 FULL 47 17 groundwater,SAC1
+RIFCSPHIGHO2 12 FULL Saccharibacteria 47 16b groundwater,SAC1
+RifSed csp2 10ft 2 Candidatus Saccharibacteria 48 8 aquifer sediment,SAC1
+S p1 S3 coassembly Candidatus Saccharibacteria 51 30 groundwater,SAC1
+JBCH GD18 4 SO65 S178 Candidatus Saccharibacteria 49 10 groundwater,SAC1
+RifSed csp2 10ft 3 metabat bin 373 aquifer sediment,SAC1
+GD2018-4 B1 QB3 180703 Candidatus Saccharibacteria 49 9 groundwater,SAC1
+JBCH GD18 4 SO65 S178 Candidatus Saccharibacteria 49 23 groundwater,SAC1
+NCBI GCA013694995.1 Saccharibacteria 45 soil,SAC1
+RIFCSPHIGHO2 02 FULL Saccharibacteria 47 12 groundwater,SAC1
+E GD2017-2 urea-3 S16 GE16 Biohub 170515 Saccharibacteria 42 38 dairy pond,SAC1
+NCBI GCA903825335.1 Saccharibacteria 41 lake,SAC1
+PATRIC 2026720.111 Saccharibacteria 51 spring sediment,SAC1
+Candidatus Saccharibacteria bacterium RIFCSPHIGHO2 12 FULL 41 12 groundwater,SAC1
+AWTP-2 BAC bulk 4 Candidatus Saccharibacteria 43 29 wastewater,SAC1
+SR2-17 Biohub 180515 Candidatus Saccharibacteria 42 11 groundwater,SAC1
+FFV18 S2p5 Saccharibacteria 43 18 groundwater,SAC1
+Montesol18 Sp2 coassembly Saccharibacteria 48 11 groundwater,SAC1
+Bandla2020 GLV1604357 Saccharibacteria 54 rhizo/endosphere,SAC1
+NA04 Candidatus Saccharibacteria 41 123 bioreactor,SAC1
+NA05 Candidatus Saccharibacteria 41 112 bioreactor,SAC1
+PATRIC 2026720.35 Saccharibacteria 49 soda lake,SAC1
+PATRIC 2026720.76 Saccharibacteria 44 soda lake,SAC1
+PATRIC 2026720.80 Saccharibacteria 47 soda lake,SAC1
+DOLZORAL124 TM7 54 13 A animal oral,SAC1
+AWTP-2 BAC bulk 4 Saccharibacteria 51 18 wastewater,SAC1
+Campanaro2020 METABATAS27yjCOA140 Saccharibacteria 46 wastewater,SAC1
+Lui2020 SRX3574179bin116 Saccharibacteria 46 groundwater,SAC1
+NCBI GCA013815785.1 Saccharibacteria 44 soil,SAC1
+H1c2 Saccharibacteria 54 8 soil,SAC1
+H1c1 Candidatus Saccharibacteria 51 7 soil,SAC1
+H1c1 Saccharibacteria TM7 49 7 soil,SAC1
+H1c1 Saccharibacteria 51 67 soil,SAC1
+H1c1 Saccharibacteria TM7 50 9 soil,SAC1
+L2c1 Saccharibacteria 51 31 soil,SAC1
+NCBI GCA903946795.1 Saccharibacteria 42 lake,SAC1
+PATRIC 2026720.37 Saccharibacteria 47 wastewater,SAC1
+PATRIC 2026720.17 Saccharibacteria 43 permafrost,SAC1
+NCBI GCA903837875.1 Saccharibacteria 34 lake,SAC1
+NCBI GCA903925195.1 Saccharibacteria 36 lake,SAC1
+NCBI GCA903839435.1 Saccharibacteria 37 lake,SAC1
+NCBI GCA903826645.1 Saccharibacteria 37 lake,SAC1
+NCBI GCA903829335.1 Saccharibacteria 37 lake,SAC1
+NCBI GCA903900685.1 Saccharibacteria 35 lake,SAC1
+NCBI GCA903839515.1 Saccharibacteria 37 lake,SAC1
+NCBI GCA903877025.1 Saccharibacteria 37 lake,SAC1
+DOLJORAL78 TM7 51 182 animal oral,SAC1
+PATRIC 2026720.65 Saccharibacteria 52 bioreactor,SAC1
+Bandla2020 GLV1604359 Saccharibacteria 54 rhizo/endosphere,SAC1
+RL11 Saccharibacteria 56 12 lichen,SAC1
+Sage2 L 80 16 Saccharibacteria 181 soil,SAC1
+Sage2 R 80 16 Saccharibacteria 173 soil,SAC1
+H2c1 Saccharibacteria 49 6 soil,SAC1
+AWTP-2 BAC bulk 4 Saccharibacteria 55 19 wastewater,SAC1
+YM S32 TM7 50 20 curated rhizosphere/endosphere,SAC1
+PATRIC 2026720.27 Saccharibacteria 51 groundwater,SAC1
+PATRIC 1953351.3 Saccharibacteria 52 permafrost,SAC1
+PATRIC 1953346.3 Saccharibacteria 53 permafrost,SAC1
+PATRIC 1953353.3 Saccharibacteria 52 permafrost,SAC1
+PATRIC 2026720.127 Saccharibacteria 48 soil,SAC1
+Bandla2020 GLV1604356 Saccharibacteria 54 rhizo/endosphere,SAC1
+UBA6224 hydrocarbon,SAC1
+NCBI GCA014377525.1 Saccharibacteria 47 glacier ice,SAC1
+PATRIC 1953350.3 Saccharibacteria 52 permafrost,SAC1
+Bandla2020 GLV1604354 Saccharibacteria 53 rhizo/endosphere,SAC1
+Bandla2020 GLV1604364 Saccharibacteria 50 rhizo/endosphere,SAC1
+NCBI GCA903819735.1 Saccharibacteria 42 lake,SAC1
+PATRIC 2026720.16 Saccharibacteria 40 permafrost,SAC1
+PATRIC 2026720.15 Saccharibacteria 48 permafrost,SAC1
+Bandla2020 GLV1604358 Saccharibacteria 51 rhizo/endosphere,SAC1
+PATRIC 1953352.3 Saccharibacteria 54 permafrost,SAC1
+CG 4 10 14 0 2 um filter Candidatus Saccharibacteria 52 9 groundwater,SAC1
+U2c2 Saccharibacteria 49 12 soil,SAC1
+E GD2017-2 urea-3 S16 GE16 Biohub 170515 Saccharibacteria 42 17 dairy pond,None
+UBA7683 bioreactor,None
+Bandla2020 GLV1604346 Saccharibacteria 50 rhizo/endosphere,None
+Sage1 L 60 16 Saccharibacteria 55 9 soil,None
+Sage2 L 20 16 Saccharibacteria 52 7 soil,None
+GTDB GCA004100265.1 Saccharibacteria 55 mine drainage,None
+PATRIC 2026720.14 Saccharibacteria 45 soil,None
+E GD2017-1 P0 An GD2017L S7 Biohub 170907 Saccharibacteria 52 20 dairy pond,None
+L2c1 Candidatus Saccharibacteria 49 10 soil,None
+CG19 WC 8 21 14 NA 150 Candidatus Saccharibacteria 47 15 groundwater,None
+PATRIC 2026720.66 Saccharibacteria 50 bioreactor,None
+PATRIC 2026720.113 Saccharibacteria 43 dairy pond,None
+PATRIC 1953369.3 Saccharibacteria 51 bioreactor,None
+UBA2340 wastewater,None
+Bandla2020 GLV1604351 Saccharibacteria 43 rhizo/endosphere,None
+Montesol18 Bp1 coassembly Saccharibacteria 45 9 groundwater,None
+RIFCSPHIGHO2 12 FULL Saccharibacteria 42 8 groundwater,None
+PATRIC 2026720.93 Saccharibacteria 46 animal gut,SAC2
+PATRIC 2026720.85 Saccharibacteria 48 animal gut,SAC2
+PATRIC 2026720.97 Saccharibacteria 44 animal gut,SAC2
+PATRIC 2026720.88 Saccharibacteria 49 animal gut,SAC2
+PATRIC 2026720.96 Saccharibacteria 51 animal gut,SAC2
+PATRIC 2026720.99 Saccharibacteria 47 animal gut,SAC2
+NCBI GCA013333515.2 Saccharibacteria 51 human oral,SAC2
+PATRIC 2080845.3 Saccharibacteria 50 human oral,SAC2
+PATRIC 2080846.3 Saccharibacteria 51 human oral,SAC2
+PATRIC 2080739.3 Saccharibacteria 48 human other,SAC2
+Almeida2020 MGYGHGUT00376 Saccharibacteria 45 human gut,SAC2
+F27 Saccharibacteria 47 107 animal gut,SAC2
+baboon AMB 005 Candidatus Saccharibacteria 48 384 animal fecal,SAC2
+PATRIC 2026720.118 Saccharibacteria 42 dairy pond,SAC3
+PATRIC 2080849.3 Saccharibacteria 32 human oral,SAC3
+Shaiber2020 ORALTCMBin00011 Saccharibacteria 33 human oral,SAC3
+Almeida2020 MGYGHGUT01620 Saccharibacteria 36 human gut,SAC3
+NCBI GCA013333405.2 Saccharibacteria 36 human oral,SAC3
+Almeida2020 MGYGHGUT02951 Saccharibacteria 35 human gut,SAC3
+Shaiber2019 TM7MAGIIIB1 Saccharibacteria 35 human oral,SAC3
+PATRIC 2026720.91 Saccharibacteria 43 animal gut,SAC3
+PATRIC 2026720.95 Saccharibacteria 48 animal gut,SAC3
+PATRIC 2026720.86 Saccharibacteria 54 animal gut,SAC3
+PATRIC 2026720.92 Saccharibacteria 50 animal gut,SAC3
+PATRIC 2026720.94 Saccharibacteria 48 animal gut,SAC3
+PATRIC 1953335.3 Saccharibacteria 43 animal gut,SAC3
+PATRIC 1953337.3 Saccharibacteria 45 animal gut,SAC3
+ERR2889262 Candidatus Saccharibacteria 46 32 animal gut,SAC3
+ERR2889257 Saccharibacteria 45 320 animal gut,SAC3
+PATRIC 1953330.3 Saccharibacteria 45 animal gut,SAC3
+NCBI GCA900766845.1 Saccharibacteria 45 human gut,SAC3
+pig ID 1473 F101 Saccharibacteria 45 8 animal gut,SAC3
+pig ID 1851 F40 2 Saccharibacteria 45 10 animal gut,SAC3
+GTDB GCA004561445.1 Saccharibacteria 44 animal gut,SAC3
+Almeida2020 MGYGHGUT04568 Saccharibacteria 45 human gut,SAC3
+pig ID 87 F57 Saccharibacteria 45 16 animal gut,SAC3
+pig ID 1851 F40 2 B2 Saccharibacteria 45 12 animal gut,SAC3
+pig ID 1851 F40 2 B1 Saccharibacteria 45 18 animal gut,SAC3
+pig ID 1851 F40 A1 Saccharibacteria 45 14 animal gut,SAC3
+AGMB2 Candidatus Saccharibacteria 47 48 animal unknown,SAC3
+SRR8890831 Candidatus Saccharibacteria 42 35 animal gut,SAC3
+NCBI GCA013316435.1 Saccharibacteria 45 animal gut,SAC3
+PATRIC 2026720.38 Saccharibacteria 44 animal gut,SAC3
+SRR8890831 Candidatus Saccharibacteria 55 56 animal gut,SAC3
+PATRIC 1953315.3 Saccharibacteria 41 animal gut,SAC3
+PATRIC 1953338.3 Saccharibacteria 42 animal gut,SAC3
+PATRIC 1953331.3 Saccharibacteria 42 animal gut,SAC3
+PATRIC 1953334.3 Saccharibacteria 40 animal gut,SAC3
+PATRIC 2080847.3 Saccharibacteria 43 animal gut,SAC3
+PATRIC 1953318.3 Saccharibacteria 42 animal fecal,SAC3
+SRR7755431 Candidatus Saccharibacteria 50 27 animal gut,SAC3
+IMG 2703719128 Saccharibacteria 42 animal gut,SAC3
+NCBI GCA013332955.2 Saccharibacteria 41 human oral,SAC3
+NCBI GCA013333375.2 Saccharibacteria 41 human oral,SAC3
+NCBI GCA013333135.2 Saccharibacteria 41 human oral,SAC3
+Shaiber2020 ORALTCMBin00015 Saccharibacteria 41 human oral,SAC3
+PATRIC 2080848.5 Saccharibacteria 40 human oral,SAC3
+PRE3 SALIVA Saccharibacteria 40 17 human oral,SAC3
+NCBI GCA013333205.2 Saccharibacteria 41 human oral,SAC3
+PATRIC 713053.3 Saccharibacteria 42 human oral,SAC3
+NCBI GCA013332965.2 Saccharibacteria 41 human oral,SAC3
+NCBI GCA013333155.2 Saccharibacteria 41 human oral,SAC3
+NCBI GCA013333415.2 Saccharibacteria 41 human oral,SAC3
+Shaiber2020 ORALTCMBin00012 Saccharibacteria 41 human oral,SAC3
+UBA2112 seawater,SAC4
+04302015 32 Saccharibacteria 50 13 mining impacted,SAC4
+D49 O6 wastewater,SAC4
+Bandla2020 GLV1604353 Saccharibacteria 50 rhizo/endosphere,SAC4
+RAAC3 TM7 aquifer sediment,SAC4
+UBA6664 bioreactor,SAC4
+IMG 2622736548 Saccharibacteria 47 bioreactor,SAC4
+IMG 2622736571 Saccharibacteria 47 bioreactor,SAC4
+PATRIC 1953323.3 Saccharibacteria 50 bioreactor,SAC4
+UBA2342 wastewater,SAC4
+IMG 2622736551 Saccharibacteria 51 bioreactor,SAC4
+IMG 2622736552 Saccharibacteria 51 bioreactor,SAC4
+PATRIC 2026720.123 Saccharibacteria 45 seawater,SAC4
+IMG 2622736569 Saccharibacteria 55 bioreactor,SAC4
+NCBI GCA014377345.1 Saccharibacteria 47 glacier ice,SAC4
+Candidatus Saccharibacteria bacterium RIFCSPHIGHO2 01 FULL 45 15 groundwater,SAC4
+IMG 2708742945 Saccharibacteria 45 groundwater,SAC4
+Candidatus Saccharibacteria bacterium RIFCSPHIGHO2 01 FULL 46 30 groundwater,SAC4
+GWC2 TM7 44 17 curated groundwater,SAC4
+PATRIC 1953348.3 Saccharibacteria 49 permafrost,SAC4
+H1c1 Saccharibacteria 45 10 soil,SAC4
+L2c1 concoct 92 soil,SAC4
+U2c1 metabat bin 53 sub soil,SAC4
+L1c2 Saccharibacteria 47 7 soil,SAC4
+L2c2 Candidatus Saccharibacteria 48 7 soil,SAC4
+AWTP-2 BAC bulk 4 Candidatus Saccharibacteria 48 19 wastewater,SAC4
+SR2-18-Sp2 coassembly Candidatus Saccharibacteria 48 6 groundwater,SAC4
+Bandla2020 GLV1604352 Saccharibacteria 52 rhizo/endosphere,SAC4
+U2c2 Saccharibacteria 47 15 soil,SAC4
+UBA4721 permafrost,SAC4
+GTDB GCA004322265.1 Saccharibacteria 46 groundwater,SAC4
+PATRIC 1953361.3 Saccharibacteria 46 permafrost,SAC4
+AR 2015 1-01 Candidatus Saccharibacteria 43 7 curated groundwater,SAC4
+PATRIC 2026720.153 Saccharibacteria 43 biopolymer,SAC4
+CG11 big fil rev 8 21 14 0 20 Saccharibacteria TM7 41 19 curated groundwater,SAC4
+CG2 30 FULL Saccharibacteria TM7 41 52 curated groundwater,SAC4
+Campanaro2020 METABATAS07pgkLD119 Saccharibacteria 39 wastewater,SAC4
+IMG 2582580652 Saccharibacteria 41 lake,SAC4
+Zodletone Water assembly2018 Candidatus Saccharibacteria 43 23 groundwater,SAC4
+08E140C01 Z5 2013 IG3399 TM7 40 176 groundwater,SAC4
+09V250M02 2016 bjp ig8144 Candidatus Saccharibacteria 40 16 groundwater,SAC4
+GTDB GCA004100325.1 Saccharibacteria 46 mine drainage,SAC4
+UBA6040 permafrost,SAC4
+PATRIC 2026720.5 Saccharibacteria 51 seawater,SAC4
+PATRIC 1953341.3 Saccharibacteria 48 seawater,SAC4
+UBA6175 hydrocarbon,SAC4
+CG 2015-01t Candidatus Saccharibacteria 48 29 curated groundwater,SAC4
+PATRIC 2026720.23 Saccharibacteria 49 hydrothermal vent,SAC4
+Bandla2020 GLV1604355 Saccharibacteria 46 rhizo/endosphere,SAC4
+PATRIC 2026720.32 Saccharibacteria 47 seawater,SAC4
+Bandla2020 GLV1604362 Saccharibacteria 49 rhizo/endosphere,SAC4
+scnpilot dereplicated TM7 1 bioreactor,SAC4
+SCNPILOT EXPT 750 BF TM7 47 9 bioreactor,SAC4
+SCN18 26 2 15 R2 P Saccharibacteria TM7 47 1048 bioreactor,SAC4
+SCN18 26 2 15 R3 B Saccharibacteria TM7 47 55 bioreactor,SAC4
+GWC2 TM7 48 9 groundwater,SAC5
+Campanaro2020 METABATAS15tlH2ME213 Saccharibacteria 46 wastewater,SAC5
+NCBI GCA013333595.2 Saccharibacteria 54 human oral,SAC5
+SEAL HS2274O TM7 47 3 9 partial animal oral,SAC5
+NCBI GCA013333815.2 Saccharibacteria 38 human oral,SAC5
+PATRIC 671231.5 Saccharibacteria 40 human oral,SAC5
+NCBI GCA013333055.2 Saccharibacteria 38 human oral,SAC5
+NCBI GCA013333575.2 Saccharibacteria 38 human oral,SAC5
+Shaiber2020 ORALPAFBin00012 Saccharibacteria 38 human oral,SAC5
+DOLZORAL124 TM7 55 12 animal oral,SAC5
+PATRIC 2026720.22 Saccharibacteria 51 hydrothermal vent,SAC5
+IMG 2516143109 Saccharibacteria 49 bioreactor,SAC5
+PATRIC 1332188.3 Saccharibacteria 49 bioreactor,SAC5
+UBA669 wastewater,SAC5
+UBA6258 hydrocarbon,SAC5
+04302015 32 Saccharibacteria 50 10 mining impacted,SAC5
+UBA6223 hydrocarbon,SAC5
+D48 O6 wastewater,SAC5
+IMG 2514885014 Saccharibacteria 53 wastewater,SAC5
+Campanaro2020 METABATAS4IglBPLE51 Saccharibacteria 51 wastewater,SAC5
+PATRIC 2699183.3 Saccharibacteria 47 human oral,SAC5
+NCBI GCA013333485.2 Saccharibacteria 47 human oral,SAC5
+PATRIC 713059.6 Saccharibacteria 47 human oral,SAC5
+PATRIC 2572087.3 Saccharibacteria 47 human oral,SAC5
+PATRIC 2699181.3 Saccharibacteria 47 human oral,SAC5
+NCBI GCA013333645.2 Saccharibacteria 52 human oral,SAC5
+NCBI GCA013333765.2 Saccharibacteria 52 human oral,SAC5
+PATRIC 1917697.3 Saccharibacteria 52 human oral,SAC5
+IMG 2236661026 Saccharibacteria 50 human oral,SAC5
+NCBI GCA013333675.2 Saccharibacteria 49 human oral,SAC5
+Shaiber2019 TM7MAGIIIA1 Saccharibacteria 47 human oral,SAC5
+Shaiber2020 ORALPCMBin00022 Saccharibacteria 46 human oral,SAC5
+NCBI GCA013333795.2 Saccharibacteria 48 human oral,SAC5
+NCBI GCA013333625.2 Saccharibacteria 48 human oral,SAC5
+PATRIC 1986206.5 Saccharibacteria 48 human oral,SAC5
+NCBI GCA013333845.2 Saccharibacteria 48 human oral,SAC5
+PATRIC 713049.4 Saccharibacteria 48 human oral,SAC5
+Shaiber2020 ORALPDFBin00011 Saccharibacteria 48 human oral,SAC5
+NCBI GCA013333495.2 Saccharibacteria 49 human oral,SAC5
+PATRIC 2026720.101 Saccharibacteria 49 dairy pond,SAC5
+UBA6209 hydrocarbon,SAC5
+Campanaro2020 METABATAS08sgBPME207 Saccharibacteria 43 wastewater,SAC5
+Campanaro2020 METABATAS08sgBPME215 Saccharibacteria 47 wastewater,SAC5
+PATRIC 2026720.114 Saccharibacteria 45 dairy pond,SAC5
+Campanaro2020 METABATAS27yjCOA208 Saccharibacteria 50 wastewater,SAC5
+SEAL HS2274O TM7 46 16 partial animal oral,SAC5
+PATRIC 2026720.70 Saccharibacteria 43 human gut,SAC5
+PATRIC 2026720.69 Saccharibacteria 43 human gut,SAC5
+PATRIC 2026720.72 Saccharibacteria 44 human gut,SAC5
+PATRIC 2026720.68 Saccharibacteria 43 human gut,SAC5
+PATRIC 713054.10 Saccharibacteria 42 human oral,SAC5
+NCBI GCA900757685.1 Saccharibacteria 43 human fecal,SAC5
+PATRIC 713054.3 Saccharibacteria 43 human oral,SAC5
+PATRIC 179883.5 Saccharibacteria 43 human gut,SAC5
+PATRIC 2026720.73 Saccharibacteria 44 human gut,SAC5
+PATRIC 2572089.3 Saccharibacteria 44 human oral,SAC5
+PATRIC 2572088.3 Saccharibacteria 48 human oral,SAC5
+PATRIC 713059.8 Saccharibacteria 51 human oral,SAC5
+PATRIC 2699179.3 Saccharibacteria 51 human oral,SAC5
+PATRIC 713059.4 Saccharibacteria 51 human oral,SAC5
+PATRIC 713059.9 Saccharibacteria 50 human oral,SAC5
+PATRIC 713059.7 Saccharibacteria 51 human oral,SAC5
+PATRIC 713059.10 Saccharibacteria 51 human oral,SAC5
+PATRIC 2699178.3 Saccharibacteria 51 human oral,SAC5
+PATRIC 713059.11 Saccharibacteria 51 human oral,SAC5
+PATRIC 713059.3 Saccharibacteria 51 human oral,SAC5
+PATRIC 2699180.3 Saccharibacteria 51 human oral,SAC5
+PATRIC 2699182.3 Saccharibacteria 51 human oral,SAC5

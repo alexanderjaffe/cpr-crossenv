@@ -1,0 +1,28 @@
+sacchari_name	sacchari_accession	host_name	host_accession	reference	notes
+HOT348	ASM784548v1	C. cellulans	GCA_900177495.1	Cross et al. 2019	
+HOT353	ASM784525v1	A. ondontolyticus OR	ASM146237v1	Cross et al. 2019	no OR genome, use XH001 instead (very closely related)
+HOT352	ASM784532v1	A. ondontolyticus OR	ASM146237v1	Cross et al. 2019	no OR genome, use XH001 instead (very closely related)
+HOT346	ASM784554v1	C. cellulans	GCA_900177495.1	Cross et al. 2019	
+HOT346	ASM784554v1	HOT171	ASM569655v1	Cross et al. 2019	
+HOT351	ASM784516v1	HOT897	ASM299923v1	Cross et al. 2019	
+HMT488 (AC001)	ASM569721v1	A. propionica HMT739 (F0230a)	ASM27771v1	Murugkar et al. 2020	
+HMT488 (AC001)	ASM569721v1	A. propionica HMT739 (F0700)	ASM569685v1	Murugkar et al. 2020	
+HMT488 (HB001)	ASM1339475v1	A. propionica HMT739 (F0230a)	ASM27771v1	Murugkar et al. 2020	
+HMT488 (HB001)	ASM1339475v1	A. propionica HMT739 (F0700)	ASM569685v1	Murugkar et al. 2020	
+HMT955 (PM004)	ASM569705v1	A. propionica HMT739 (F0230a)	ASM27771v1	Murugkar et al. 2020	text says host died?
+HMT955 (PM004)	ASM569705v1	A. propionica HMT739 (F0700)	ASM569685v1	Murugkar et al. 2020	text says host died?
+TM7x/HMT952	ASM80362v1	A. sp. HMT171 (F0337)	ASM18696v1	Murugkar et al. 2020	
+HMT349	None	HOT897	ASM299923v1	Murugkar et al. 2020	genome in progress 
+TM7x/HMT952	ASM80362v1	A. ondontolyticus (XH001)	ASM146237v1	He et al. 2015	
+TM7x/HMT952	ASM80362v1	HMT877 (F0543)	ASM46630v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	HMT178 (F0338)	ASM18668v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	HMT671 (W712)	ASM126205v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. meyeri (ATCC35568)	None	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	HMT180 (F0310)	ASM18528v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. odontolyticus (ATCC17929)	None	Utter et al. 2020	cannot find
+TM7x/HMT952	ASM80362v1	A. odontolyticus HMT 701 (ATCC17982)	ASM15422v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. odontolyticus HMT 701 (F0309)	ASM16341v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. sp. (ICM58)	AspICM58v1.0	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. sp. HMT 172 (F0311)	ASM46626v1	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. sp. (ICM47)	AspICM47v1.0	Utter et al. 2020	
+TM7x/HMT952	ASM80362v1	A. sp. (ICM39)	AspICM39v1.0	Utter et al. 2020	

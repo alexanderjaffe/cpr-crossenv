@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "Ribosomal_S3_C.hmm", "search_hmms": ["graftm7lytrhv8_search.hmm"], "refpkg": "S3.gpkg.refpkg", "trusted_cutoff": false, "range": 310.329318166197, "unaligned_sequence_database": "graftm2tboot96.faa", "diamond_database": "S3.dmnd"}
